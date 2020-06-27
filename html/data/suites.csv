@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 27 18:55:21 CST 2020","Sat Jun 27 18:55:21 CST 2020","3","scripts","test_step","TestSetup","","","test_001","添加测试步骤"
+"passed","Sat Jun 27 18:55:21 CST 2020","Sat Jun 27 18:55:21 CST 2020","1","scripts","test_step","TestSetup","","","test_003",""
+"failed","Sat Jun 27 18:55:21 CST 2020","Sat Jun 27 18:55:21 CST 2020","0","scripts","test_step","TestSetup","","","test_002",""
+"passed","Sat Jun 27 18:55:21 CST 2020","Sat Jun 27 18:55:21 CST 2020","0","scripts","test_step","TestSetup","","","test_004",""
+"passed","Sat Jun 27 18:55:21 CST 2020","Sat Jun 27 18:55:21 CST 2020","0","scripts","test_step","TestSetup","","","test_005",""

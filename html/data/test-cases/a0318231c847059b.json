@@ -1,0 +1,59 @@
+{
+  "uid" : "a0318231c847059b",
+  "name" : "test_003",
+  "fullName" : "scripts.test_step.TestSetup#test_003",
+  "historyId" : "303c94b0cd210390003a80727e4b6594",
+  "time" : {
+    "start" : 1593255321754,
+    "stop" : 1593255321755,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_step"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSetup"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VKQMT26"
+  }, {
+    "name" : "thread",
+    "value" : "17940-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_step"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0318231c847059b.json",
+  "parameterValues" : [ ]
+}

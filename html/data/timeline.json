@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-VKQMT26",
+    "children" : [ {
+      "name" : "17940-MainThread",
+      "children" : [ {
+        "name" : "test_005",
+        "uid" : "b5fbb8b10dbdcfa6",
+        "parentUid" : "155afa6b9a98fa8f57f54c0a5e0546e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593255321765,
+          "stop" : 1593255321765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_001",
+        "uid" : "cd80f9b3483f28f1",
+        "parentUid" : "155afa6b9a98fa8f57f54c0a5e0546e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593255321698,
+          "stop" : 1593255321701,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_003",
+        "uid" : "a0318231c847059b",
+        "parentUid" : "155afa6b9a98fa8f57f54c0a5e0546e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593255321754,
+          "stop" : 1593255321755,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_004",
+        "uid" : "69533eaab7ce6ccb",
+        "parentUid" : "155afa6b9a98fa8f57f54c0a5e0546e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1593255321760,
+          "stop" : 1593255321760,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_002",
+        "uid" : "c925008db364179a",
+        "parentUid" : "155afa6b9a98fa8f57f54c0a5e0546e7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1593255321706,
+          "stop" : 1593255321706,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "155afa6b9a98fa8f57f54c0a5e0546e7"
+    } ],
+    "uid" : "1492a721f41840a933ee11a7ede062c2"
+  } ]
+}
